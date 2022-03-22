@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Education</title>
+<meta charset="utf-8">
+<link href="stylesheet.css" rel="stylesheet">
+</head>
+<body>
+<div id="wrapper">
+  <header>
+	<img src="ian.jpg" width="120" height="120" id="profileimg">
+    <h1>Ian Gabriel Scardino</h1>
+	<span id="style1">Media Integrity Agent</span>
+	<h4><img id="img_icon" src="linkedin.jpg" width="25" height="25">  <a href="https://www.linkedin.com/in/ianscardino/" target="_blank">LinkedIn</a> </h4>
+  </header>
+  <nav>
+    <ul>
+	 <li><a href="index.html">Home</a></li>
+     <li><a href="w_experience.html">Working Experience</a></li>
+     <li><a href="education.html">Education</a></li>
+     <li><a href="contact.html">Contact</a></li>
+	</ul> 
+   </nav> 
+  <main> 
+	<h2>Education</h2>
+	<table border="1" >
+      <tr>
+        <th>School</th>
+        <th>Degree</th>
+		<th>Year Awarded</th>
+    </tr>
+    <tr>
+        <td>TU Dublin</td>
+        <td>Bachelor's</td>
+        <td>2025</td>
+    </tr>
+    <tr>
+        <td>FATEC</td>
+        <td>Higher Technical Certificate </td>
+        <td>2019</td>
+    </tr>
+	    <tr>
+        <td>ETEC</td>
+        <td>IT Technician</td>
+        <td>2016</td>
+    </tr>
+</table>
+
+<map id="tudublin" name="tudublin">
+    <area target="_blank" alt="Info systems Course" href="https://www.tudublin.ie/study/part-time/courses/information-systems-and-information-technology/" coords="71,250,229,308" shape="rect">
+    <area target="_blank" alt="TU Main Page" title="" href="https://www.tudublin.ie/" coords="645,222,644,57,306,42,166,39,166,128,57,128,60,223,238,239,372,230,607,222" shape="poly">   
+	</map>
+   <img src="tud.png" usemap="#tudublin" >
+ 
+  </div> <!-- end of wrapper -->
+</body>
+</html>

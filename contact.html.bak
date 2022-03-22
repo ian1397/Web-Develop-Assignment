@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Contact</title>
+<meta charset="utf-8">
+<link href="stylesheet.css" rel="stylesheet">
+</head>
+<body>
+<div id="wrapper">
+  <header>
+	<img src="ian.jpg" width="120" height="120" id="profileimg">
+    <h1>Ian Gabriel Scardino</h1>
+	<span id="style1">Media Integrity Agent</span>
+	<h4><img id="img_icon" src="linkedin.jpg" width="25" height="25">  <a href="https://www.linkedin.com/in/ianscardino/" target="_blank">LinkedIn</a> </h4>
+  </header>
+  <nav>
+    <ul>
+	 <li><a href="index.html">Home</a></li>
+     <li><a href="w_experience.html">Work Experience</a></li>
+     <li><a href="education.html">Education</a></li>
+     <li><a href="contact.html">Contact</a></li>
+	</ul> 
+   </nav> 
+  <main>
+  <h2>Contact me</h2>
+  <p> Personal Email: <a href="mailto:ianscardino@gmail.com">ianscardino@gmail.com</a> </p>
+  <p> Institutional Email: <a href="mailto:D21125650@mytudublin.ie">ianscardino@gmail.com</a> </p>
+  <p> Phone: +353 0896020536 </p>
+  </div> <!-- end of wrapper -->
+</body>
+</html>
